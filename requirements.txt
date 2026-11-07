@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+SQLAlchemy>=2.0
+PyMySQL>=1.1
+python-dotenv>=1.0
+python-pptx>=1.0
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+streamlit>=1.50
+jupyter>=1.0
+pytest>=8.0
